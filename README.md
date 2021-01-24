@@ -4,15 +4,15 @@
 
 # contributing
 
-Make change
+- Make change
 
 # build instructions
 
-Actions
+- Add Actions
 
 # short usage
 
-use it this way
+- use it this way
 
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
