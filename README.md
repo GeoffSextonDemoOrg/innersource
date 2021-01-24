@@ -9,3 +9,15 @@
 - [Workflows](workflows/)
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
+
+contributing
+
+Make change
+
+build instructions
+
+Actions
+
+short usage
+
+use it this way
